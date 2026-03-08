@@ -1,6 +1,10 @@
 # Investment Growth Simulator Foundation
 
-A simple web app that simulates long-term investment growth using compound interest.
+A simple web application that simulates long-term investment growth using compound interest.
+
+## Demo
+
+Open `index.html` in your browser to run the simulator locally.
 
 ## Features
 
@@ -21,12 +25,11 @@ A simple web app that simulates long-term investment growth using compound inter
 
 ## Purpose
 
-This project was built to practice JavaScript fundamentals, user input handling, calculations, and DOM manipulation.
+This project was built to practice JavaScript fundamentals, DOM manipulation, and financial calculations.
 
 ## Future Improvements
 
-- Better input validation
-- Improved UI design
-- Chart visualization for investment growth
-- Responsive mobile layout
-- More detailed investment scenarios
+- Input validation
+- Chart visualization
+- Responsive layout
+- More detailed financial scenarios
