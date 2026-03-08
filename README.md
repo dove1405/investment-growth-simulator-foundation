@@ -4,6 +4,9 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
+## Live Demo
+https://dove1405.github.io/investment-growth-simulator-foundation
+
 ## Preview
 
 ![Investment Growth Simulator](assets/screenshot.png)
